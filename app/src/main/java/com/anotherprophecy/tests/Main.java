@@ -1,7 +1,9 @@
-package com.anotherprophecy.webviewlib;
+package com.anotherprophecy.tests;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.anotherprophecy.webviewlib.WebViewer;
 
 import androidx.annotation.Nullable;
 

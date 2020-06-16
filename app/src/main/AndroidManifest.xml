@@ -10,7 +10,7 @@
         android:usesCleartextTraffic="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         
-        <activity android:name=".Main">
+        <activity android:name="com.anotherprophecy.tests.Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
